@@ -1,5 +1,10 @@
 #Reame
 
+
+Clonar el proyecto 
+
+git clone https://github.com/icastrillon/k6Examn.git
+
 1. Para ejecutar la prueba se ejecutar el siguiente comando
 
  K6_BROWSER_HEADLESS=false k6 run script.js
